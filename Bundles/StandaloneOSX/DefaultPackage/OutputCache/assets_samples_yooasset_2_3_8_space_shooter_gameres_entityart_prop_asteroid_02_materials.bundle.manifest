@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1106449686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: feb80bfcd0dddab5f11ac949c004452d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: feb80bfcd0dddab5f11ac949c004452d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.3.8/Space Shooter/GameRes/EntityArt/prop_asteroid_02/Materials/prop_asteroid_02_mat.mat
+Dependencies:
+- /Users/hasux/Desktop/Projects/XY02/YooTest/Bundles/StandaloneOSX/DefaultPackage/OutputCache/unityshaders.bundle

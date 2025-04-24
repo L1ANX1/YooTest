@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 4139757982
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 847f4f09c7964e52b2f944c4e6f466de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 32cb0b392ec36a3d577a147f8a6cdca0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 847f4f09c7964e52b2f944c4e6f466de
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54061fd8bcab2344e87b0faf0464c179, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 814f6a7e3ec8a40aaa3a2057e2695924, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.3.8/Space Shooter/GameRes/Scene/scene_battle.unity
+Dependencies:
+- /Users/hasux/Desktop/Projects/XY02/YooTest/Bundles/StandaloneOSX/DefaultPackage/OutputCache/assets_samples_yooasset_2_3_8_space_shooter_gameres_audio.bundle
+- /Users/hasux/Desktop/Projects/XY02/YooTest/Bundles/StandaloneOSX/DefaultPackage/OutputCache/assets_samples_yooasset_2_3_8_space_shooter_gameres_effectart.bundle
+- /Users/hasux/Desktop/Projects/XY02/YooTest/Bundles/StandaloneOSX/DefaultPackage/OutputCache/assets_samples_yooasset_2_3_8_space_shooter_gameres_scene_scene_battlesettings.bundle
+- /Users/hasux/Desktop/Projects/XY02/YooTest/Bundles/StandaloneOSX/DefaultPackage/OutputCache/assets_samples_yooasset_2_3_8_space_shooter_gameres_sceneart.bundle

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1892338947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d077d02a42fee8ae5251c7cd1ab343f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 923768aebf385ad86f7762daa8034951
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1d077d02a42fee8ae5251c7cd1ab343f
+HashAppended: 0
+ClassTypes:
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/2.3.8/Space Shooter/GameRes/UISpriteAtlas/atlas_icon.spriteatlas
+Dependencies:
+- /Users/hasux/Desktop/Projects/XY02/YooTest/Bundles/StandaloneOSX/DefaultPackage/OutputCache/assets_samples_yooasset_2_3_8_space_shooter_gameres_uisprite_atlas_icon.bundle
