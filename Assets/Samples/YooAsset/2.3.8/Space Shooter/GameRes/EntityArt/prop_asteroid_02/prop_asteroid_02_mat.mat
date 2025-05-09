@@ -146,7 +146,7 @@ Material:
     - _PointLightPosition: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.3897059, g: 0.3606163, b: 0.29801038, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &4131361346908592771
+--- !u!114 &1779855587613870274
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
